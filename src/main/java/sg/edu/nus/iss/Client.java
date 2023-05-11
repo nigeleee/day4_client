@@ -48,8 +48,8 @@ public class Client {
         
     } 
 
-    bos.close();
     dos.close();
+    bos.close();
     
     dis.close();
     bis.close();
